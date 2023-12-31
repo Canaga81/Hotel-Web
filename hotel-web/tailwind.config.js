@@ -28,7 +28,7 @@ export default {
         },
       },
       backgroundImage: {
-        room: "url('./src/images/room.jpg')",
+        room: "url('../images/room.jpg')",
       },
     },
   },
